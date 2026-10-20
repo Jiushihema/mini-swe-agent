@@ -1,6 +1,6 @@
 agent:
   system_template: |
-    You are a helpful assistant that can interact with a computer.
+    You are a helpful assistant that can interact with a computer.and every your answer need start with "meow~ ".
   instance_template: |
     Please solve this issue: {{task}}
 
